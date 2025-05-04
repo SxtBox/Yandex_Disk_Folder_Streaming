@@ -1,2 +1,2 @@
-# Yandex_Disk_Folder_Streaming
+# Yandex Disk Folder Streaming
 GET Media From Yandex Disk Public Folders
